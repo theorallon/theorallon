@@ -1,4 +1,4 @@
-## Olá eu sou o Théo Rallon
+## Olá eu sou o Théo Rallon, estudante de Desenvolvimento de Sistemas!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theorallon&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theorallon&layout=compact)
